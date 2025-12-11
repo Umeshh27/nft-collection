@@ -10,10 +10,10 @@ A complete automated **Hardhat test suite** ensures correctness, and the entire 
 nft-collection/
 │
 ├── contracts/
-│   └── NftCollection.sol
+│ └── NftCollection.sol
 │
 ├── test/
-│   └── NftCollection.test.js
+│ └── NftCollection.test.js
 │
 ├── hardhat.config.js
 ├── package.json
