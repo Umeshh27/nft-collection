@@ -8,17 +8,18 @@ A complete automated **Hardhat test suite** ensures correctness, and the entire 
 ## 📁 Project Structure
 
 nft-collection/
+│
 ├── contracts/
-│ └── NftCollection.sol # Main ERC-721 NFT contract
+│   └── NftCollection.sol
 │
 ├── test/
-│ └── NftCollection.test.js # Automated test suite
+│   └── NftCollection.test.js
 │
-├── hardhat.config.js # Hardhat configuration
-├── package.json # Project dependencies
-├── Dockerfile # Docker setup for building & testing
-├── .dockerignore # Files excluded from Docker build
-└── README.md # Documentation
+├── hardhat.config.js
+├── package.json
+├── Dockerfile
+├── .dockerignore
+└── README.md
 
 ## 🎯 Project Overview
 
