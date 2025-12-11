@@ -3,33 +3,6 @@
 This project implements a fully functional **ERC-721–compatible NFT smart contract** with secure minting, transfers, approvals, metadata handling, and supply restrictions.  
 A complete automated **Hardhat test suite** ensures correctness, and the entire project is **Dockerized** for reproducible, environment-independent execution.
 
-Got it — you want the **exact same style** as your second image:
-
-* Single clean box
-* Proper alignment
-* No comments on the right side
-* Perfect tree layout
-* Looks visually professional
-
-Here is the **EXACT neat structure**, matching the style of the second image **pixel-perfect**:
-
-
-## 📁 Project Structure
-
-nft-collection/
-│
-├── contracts/
-│   └── NftCollection.sol
-│
-├── test/
-│   └── NftCollection.test.js
-│
-├── hardhat.config.js
-├── package.json
-├── Dockerfile
-├── .dockerignore
-└── README.md
-
 ## 🎯 Project Overview
 
 The objective of this project is to build a **secure, reliable ERC-721 NFT contract** that follows real-world design standards:
